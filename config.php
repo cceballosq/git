@@ -22,4 +22,7 @@ define('DB_Password', 'cactus');
 define('DB_Port', false);
 define('Path', "http://148.213.9.64:84/servicio/miguel/prototipo2/");
 
+#http://www.gitguys.com/topics/the-configuration-file-branch-section/
+#http://git-scm.com/book/it/v2/Git-Commands-Setup-and-Config
+#https://www.youtube.com/watch?v=udughzlN5M4
 ?>
