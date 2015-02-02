@@ -11,7 +11,9 @@ define('DB_Port', false);
 define('Path', "http://localhost/proyecto_1/prototipo2/");
 */
 
-//servicio ip
+
+//servicio ip2 nuevo
+
 
 define('requiresBD', true);
 define('DB_Engine', 'mysqli');
