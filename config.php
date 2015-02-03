@@ -11,7 +11,7 @@ define('DB_Port', false);
 define('Path', "http://localhost/proyecto_1/prototipo2/");
 */
 
-//cuatros
+//cinco
 //servicio ip2 nuevo
 //new
 define('requiresBD', true);
