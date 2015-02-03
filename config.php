@@ -14,6 +14,7 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 //7
 //servicio ip2 nuevo
 //new
+//http://git-scm.com/book/es/v1/Ramificaciones-en-Git-Reorganizando-el-trabajo-realizado
 define('requiresBD', true);
 define('DB_Engine', 'mysqli');
 define('DB_Server', '148.213.9.64');
