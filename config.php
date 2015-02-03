@@ -17,7 +17,7 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 
 
 
-//new
+//new 
 
 define('requiresBD', true);
 define('DB_Engine', 'mysqli');
