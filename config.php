@@ -14,9 +14,6 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 
 //servicio ip2 nuevo
 
-
-
-
 //new 
 
 define('requiresBD', true);
