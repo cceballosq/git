@@ -13,7 +13,7 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 
 //tres
 //servicio ip2 nuevo
-
+//new
 define('requiresBD', true);
 define('DB_Engine', 'mysqli');
 define('DB_Server', '148.213.9.64');
