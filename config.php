@@ -10,8 +10,8 @@ define('DB_Password', '0000');
 define('DB_Port', false);
 define('Path', "http://localhost/proyecto_1/prototipo2/");
 */
-
-//7
+//git branch
+//8
 //servicio ip2 nuevo
 //new
 //http://git-scm.com/book/es/v1/Ramificaciones-en-Git-Reorganizando-el-trabajo-realizado
