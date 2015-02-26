@@ -12,6 +12,8 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 */
 
 //linea master
+//linea cmc
+
 
 //http://git-scm.com/book/es/v1/Ramificaciones-en-Git-Reorganizando-el-trabajo-realizado
 define('requiresBD', true);
