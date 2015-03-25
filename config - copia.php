@@ -22,4 +22,5 @@ define('DB_Password', 'cactus');
 define('DB_Port', false);
 define('Path', "http://148.213.9.64:84/servicio/miguel/prototipo2/");
 
+//amend2
 ?>
