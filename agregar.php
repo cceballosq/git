@@ -14,7 +14,7 @@ git checkout master
 git merge ramaconloscambios
 
 #AGRAGAR CAMBIO A LA MASTER SERVICOR :
-//ya una vez agregados a la local solo se hace push master server
+//ya una vez agregados a la local solo se hace push master server, ahora master estar al parejo con la rama merge
 git push origin master  
 
 
