@@ -7,3 +7,5 @@
 	logs/*  
 	#ASIGNAR UN TIPO o EXTENCION DE ARCHIVO :
 	*.log
+
+	otro
