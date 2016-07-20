@@ -23,12 +23,12 @@ define('Path', "http://localhost/proyecto_1/prototipo2/");
 //http://git-scm.com/book/es/v1/Ramificaciones-en-Git-Reorganizando-el-trabajo-realizado
 define('requiresBD', true);
 define('DB_Engine', 'mysqli');
-define('DB_Server', '148.213.9.1');
+define('DB_Server', '148.213.9.199');
 define('DB_name', 'flavor');
 define('DB_User', 'root');
 define('DB_Password', 'cactus');
 define('DB_Port', false);
-define('Path', "http://148.213.9.1:84/servicio/miguel/prototipo2/");
+define('Path', "http://148.213.9.199:84/servicio/miguel/prototipo2/");
 
 #http://www.gitguys.com/topics/the-configuration-file-branch-section/
 #http://git-scm.com/book/it/v2/Git-Commands-Setup-and-Config

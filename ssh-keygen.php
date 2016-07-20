@@ -1,8 +1,8 @@
 <?php 
-CREAR UNA LLAVE :
-#ssh-keygen
+#CREAR UNA LLAVE SSH:
+ssh-keygen
 
-DIRECCION DE LA LLAVE:
-#cat ~/.ssh
+#DIRECCION DE ALOJAMIENTO LA LLAVE:
+cd ~/.ssh/
 
  ?>
