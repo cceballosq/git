@@ -5,5 +5,5 @@ CONFIGURACION INICIAL :
 CONFIGURAR EL EDITOR :
 #git config --global core.editor emacs
 
-
+ windows 10 desde github
  ?>
